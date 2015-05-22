@@ -9,9 +9,9 @@
     </parent>
 
     <scm>
-        <connection>scm:git:git@github.com:grzegorz.zur/gelfj.git</connection>
-        <developerConnection>scm:git:git@github.com:grzegorz.zur/gelfj.git</developerConnection>
-        <url>git@github.com:grzegorz.zur/gelfj.git</url>
+        <connection>scm:git:git@github.com:grzegorz-zur/gelfj.git</connection>
+        <developerConnection>scm:git:git@github.com:grzegorz-zur/gelfj.git</developerConnection>
+        <url>git@github.com:grzegorz-zur/gelfj.git</url>
         <tag>v1.1.12-fix</tag>
     </scm>
 
@@ -21,7 +21,7 @@
     <packaging>bundle</packaging>
     <name>gelfj</name>
     <description>GELF implementation in Java and log4j appender without any dependencies.</description>
-    <url>https://github.com/grzegorz.zur/gelfj</url>
+    <url>https://github.com/grzegorz-zur/gelfj</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
